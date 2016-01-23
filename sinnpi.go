@@ -1,0 +1,5 @@
+package sinnpi
+
+func main() {
+
+}
