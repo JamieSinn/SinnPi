@@ -4,7 +4,7 @@ My _Insert pretty much any action here_ Bot. Will be written at some point or ot
 Major thanks to Thinkofdeath for having thinkbot as a learning source.
 
 ## Things planned:
-IRC Bot
+IRC Bot - commands and stuff
 Possibly a minecraft bot hook or something
 Hook to EcoCityCraft and grab stuff.
 Poll my computer to get a list of all installed programs to update my installed repo with.

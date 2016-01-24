@@ -24,3 +24,5 @@ _testmain.go
 *.prof
 .idea
 SinnPi.iml
+src/github.com/ammario
+!src/github.com/jamiesinn
