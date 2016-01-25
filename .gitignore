@@ -24,5 +24,9 @@ _testmain.go
 *.prof
 .idea
 SinnPi.iml
-src/github.com/ammario
-!src/github.com/jamiesinn
+src/github.com/fluffle/
+src/golang.org/
+src/github.com/golang/
+!src/github.com/jamiesinn/
+
+

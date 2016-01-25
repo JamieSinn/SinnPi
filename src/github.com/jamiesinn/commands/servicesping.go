@@ -2,25 +2,13 @@ package commands
 import (
 	"net/http"
 	"io/ioutil"
-	"encoding/json"
-	"fmt"
 )
 
-type MojangServices struct {
-	Services []struct {
-		Status map[string]string
-	}
-}
 
 
-func GetStatuses()(result MojangServices) {
+func GetStatuses() {
 
-	jsonR := getRawJSON()
-	fmt.Println(jsonR)
-
-	result = MojangServices{}
-	json.Unmarshal([]byte(jsonR), &result)
-
+	//jsonR := getRawJSON()
 	return
 }
 
